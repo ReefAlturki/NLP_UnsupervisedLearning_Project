@@ -1,8 +1,11 @@
 
 # Natural Language Processing Project Proposal
 authors:
+
 Reef Alturki
+
 Raghad Alarifi
+
 
 ## Backstory
 
