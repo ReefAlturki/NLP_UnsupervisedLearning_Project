@@ -3,10 +3,13 @@
 **authors**:
 
 Reef Alturki
+
 Raghad Alarifi
 
 
 ## Backstory
+
+Online reviews from customers have created a new field in marketing and communication it helps to better Understand your Customers and Improve Customer Service. Twitter is one of the most used social media platforms where people write their opinions and the honest feedback of businesses based on a personal experience. in this project, we are going to analyze tweets about customers' shopping experience with ASOS which is a British online fashion and cosmetic retailer that provides worldwide shipping, primarily aimed at young adults.
 
 
 
@@ -22,7 +25,7 @@ The main goal of this project is to build unsupervised learning models that addr
 **Who benefits from exploring this question or building this model/system?**
 
 
-ASOS quality assurance department can beneft from this project to improve their services.
+ASOS marketing team and quality assurance department can benefit from this project to improve their services.
 
 
 ## Data Description:
