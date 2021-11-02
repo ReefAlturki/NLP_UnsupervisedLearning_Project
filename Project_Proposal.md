@@ -1,9 +1,8 @@
 
 # Natural Language Processing Project Proposal
-authors:
+**authors**:
 
 Reef Alturki
-
 Raghad Alarifi
 
 
@@ -16,9 +15,14 @@ Raghad Alarifi
 **What is the framing question of your analysis, or the purpose of the model/system you plan to build?**
 
 
+The main goal of this project is to build unsupervised learning models that address a meaningful topic modeling of customers' written Tweets about their ASOS online shopping experience. we are going to bulid different models and compare them to use the best model. The models focuse ob finding postive and negative user's feedbacks. We are also going to explore the time series feature of a tweet in order to get insightful analysis.
+
+
 
 **Who benefits from exploring this question or building this model/system?**
 
+
+ASOS quality assurance department can beneft from this project to improve their services.
 
 
 ## Data Description:
