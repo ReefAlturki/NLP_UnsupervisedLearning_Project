@@ -18,7 +18,7 @@ Online reviews from customers have created a new field in marketing and communic
 **What is the framing question of your analysis, or the purpose of the model/system you plan to build?**
 
 
-The main goal of this project is to build unsupervised learning models that address a meaningful topic modeling of customers' written Tweets about their ASOS online shopping experience. we are going to bulid different models and compare them to use the best model. The models focuse ob finding postive and negative user's feedbacks. We are also going to explore the time series feature of a tweet in order to get insightful analysis.
+The main goal of this project is to build unsupervised learning models that address a meaningful topic modeling of customers' written Tweets about their ASOS online shopping experience. we are going to bulid different models and compare them to use the best model. The models focuse on finding postive and negative user's feedbacks. We are also going to explore the time series feature of a tweet in order to get insightful analysis.
 
 
 
