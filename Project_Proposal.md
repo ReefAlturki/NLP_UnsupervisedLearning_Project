@@ -25,7 +25,7 @@ The main goal of this project is to build unsupervised learning models that addr
 **Who benefits from exploring this question or building this model/system?**
 
 
-ASOS marketing team and quality assurance department can benefit from this project to improve their services.
+Asos marketing team and quality assurance department can benefit from this project to improve their services.
 
 
 ## Data Description:
