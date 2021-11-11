@@ -10,4 +10,4 @@ This project aims to
 * [Project Proposal](https://github.com/ReefAlturki/NaturalLanguageProcessing/blob/main/Project_Proposal.md)
 * [Project MVP](https://github.com/ReefAlturki/NaturalLanguageProcessing/blob/main/NaturalLanguageProcessing_flair.ipynb)
 * [Project Code](https://github.com/ReefAlturki/NaturalLanguageProcessing/blob/main/NLP_Project_Code.ipynb)
-* [Presentation]()
+* [Presentation](https://github.com/ReefAlturki/NLP_UnsupervisedLearning_Project/blob/main/presentation.pdf)
