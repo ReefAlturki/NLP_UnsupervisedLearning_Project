@@ -3,7 +3,7 @@
 ## Project Overview
 SDAIA Bootcamp project 4 - Natural Language Processing. 
 
-This project aims to build unsupervised learning models that address meaningful topics of customers' written tweets about their Asos online shopping experience. Also, to analyze the sentiment of the tweets to derive insights into what customers love and hate.
+This project aims to build unsupervised learning models that address meaningful topics of customers' written tweets about their ASOS online shopping experience. Also, to analyze the sentiment of the tweets to derive insights into what customers love and hate.
 
 
 ## Table of contents
