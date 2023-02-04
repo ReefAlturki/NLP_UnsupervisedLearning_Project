@@ -8,6 +8,5 @@ This project aims to build unsupervised learning models that address meaningful 
 
 ## Table of contents
 * [Project Proposal](https://github.com/ReefAlturki/NaturalLanguageProcessing/blob/main/Project_Proposal.md)
-* [Project MVP](https://github.com/ReefAlturki/NaturalLanguageProcessing/blob/main/NaturalLanguageProcessing_flair.ipynb)
 * [Project Code](https://github.com/ReefAlturki/NaturalLanguageProcessing/blob/main/NLP_Project_Code.ipynb)
 * [Presentation](https://github.com/ReefAlturki/NLP_UnsupervisedLearning_Project/blob/main/presentation.pdf)
